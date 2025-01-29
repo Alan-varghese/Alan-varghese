@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Alan Varghese</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vismayarajesh&label=Profile%20views&color=0e75b6&style=flat" alt="vismayarajesh" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vismayarajesh&label=Profile%20views&color=0e75b6&style=flat" alt="Alan-varghese" /> </p>
 <img align="right" alt="Coding" width="400" src="https://digitalroar.ae/img/mobile-app-development.gif">
 
 - 🔭 I’m currently working on **Legal chatbot**
