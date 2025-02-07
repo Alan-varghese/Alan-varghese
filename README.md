@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/5d42d0e7-e04d-4e83-8696-6c6465d2984f)[![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)](https://rishavchanda.io)
+[![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Alan Varghese</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
