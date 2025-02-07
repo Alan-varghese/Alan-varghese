@@ -1,8 +1,8 @@
-[![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)](https://rishavchanda.io)
+![image](https://github.com/user-attachments/assets/5d42d0e7-e04d-4e83-8696-6c6465d2984f)[![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Alan Varghese</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vismayarajesh&label=Profile%20views&color=0e75b6&style=flat" alt="Alan-varghese" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=alan-varghese&label=Profile%20views&color=0e75b6&style=flat" alt="Alan-varghese" /> </p>
 <img align="right" alt="Coding" width="400" src="https://digitalroar.ae/img/mobile-app-development.gif">
 
 - 🔭 I’m currently working on **Legal chatbot**
@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/alan-varghese-34103a166" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alan-varghese-34103a166" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/alan-varghese-34103a166" target="blank"><img align="center" src="https://raw.githubusercontent.com//alan-varghese/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alan-varghese-34103a166" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/alanvz757/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vismaya_rajesh" height="30" width="40" /></a>
 </p>
 
